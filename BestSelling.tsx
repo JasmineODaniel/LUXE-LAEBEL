@@ -1,4 +1,4 @@
-import "./BestSelling.css";
+ import "./BestSelling.css";
 import { AiOutlineHeart } from "react-icons/ai";
 import { FaStar } from "react-icons/fa";
 
