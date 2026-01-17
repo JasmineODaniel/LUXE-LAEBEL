@@ -1,4 +1,4 @@
-import PromoBar from "./components/layout/PromoBar";
+ import PromoBar from "./components/layout/PromoBar";
 import Navbar from "./components/layout/Navbar";
 import Hero from "./components/home/Hero";
 import FlashSales from "./components/home/FlashSales";
