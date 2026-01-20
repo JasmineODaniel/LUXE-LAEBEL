@@ -1,4 +1,4 @@
-import "./Footer.css";
+ import "./Footer.css";
 import { FaFacebookF, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { IoMdArrowForward } from "react-icons/io";
 
