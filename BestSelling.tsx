@@ -4,7 +4,7 @@ import { FaStar } from "react-icons/fa";
 
 type Product = {
   title: string;
-  price: string;
+  price: string; 
   compareAt?: string;
   reviews: number;
   image: string;
